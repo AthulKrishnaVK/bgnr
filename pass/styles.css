@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    box-sizing: border-box;
+    /* color: aqua; */
+    background-color: rgb(1, 7, 63);
+}
+body{
+    background: rgba(218, 20, 20, 0);
+    
+
+}
+
+.input-box{
+    background: rgb(5, 2, 66);
+    /* color: black; */
+    align-items: center;
+    /* max-width: 500px; */
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   margin: 300px auto;
+   width: 100%;
+   border-radius: 5px;
+   
+}
+.input-box input{
+    /* width:100%; */
+    padding: 10px 0;
+    border: 0;
+    outline: 0;
+    font-size: 20px;
+    color: rgb(87, 136, 136);
+    background: azure;
+    padding-left: 10px;
+}
+.input-box img{
+    width: 35px;
+    cursor: pointer;
+    
+    
+}
